@@ -7,5 +7,7 @@ The regular Etherscan API does NOT provide this feature (price @ time of TX) the
 
 The script uses asyncio to speed up potential 10's of thousands of transactions to go and process.
 
+Requires API key from Etherscan (can be freely acquired).
+
 ![alt text](https://etherscan.io/images/brandassets/etherscan-logo.svg)
 
