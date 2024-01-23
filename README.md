@@ -8,3 +8,6 @@ Takes any ETH address you put into the prompt along with a selected date range.
 Returns a complete CSV of transaction history, most notably with the ETH price at the time of the transaction for accounting purposes. 
 
 The regular Etherscan API does NOT provide this feature (price @ time of TX) therefore CCXT was used.
+
+![alt text](https://jirasupport.files.wordpress.com/2018/01/etherscan-logo-big.png)
+
