@@ -9,5 +9,5 @@ Returns a complete CSV of transaction history, most notably with the ETH price a
 
 The regular Etherscan API does NOT provide this feature (price @ time of TX) therefore CCXT was used.
 
-![alt text](https://jirasupport.files.wordpress.com/2018/01/etherscan-logo-big.png)
+![alt text](https://etherscan.io/images/brandassets/etherscan-logo.svg)
 
